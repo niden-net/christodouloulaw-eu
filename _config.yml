@@ -1,0 +1,23 @@
+app:
+  title: 'Christodoulou Law Ltd.'
+  name: 'Christodoulou Law Ltd.'
+  author: 'niden.net'
+  description: 'Christodoulou Law Ltd. website'
+  keywords: 'christodoulou, law, lawyers, construction'
+  email: ''
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+
+
