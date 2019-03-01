@@ -4,7 +4,7 @@ app:
   author: 'niden.net'
   description: 'Christodoulou Law Ltd. website'
   keywords: 'christodoulou, law, lawyers, construction'
-  email: ''
+  email: 'law@christodouloulaw.eu'
 
 kramdown:
   input: GFM
